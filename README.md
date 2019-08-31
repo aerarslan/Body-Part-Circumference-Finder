@@ -3,4 +3,4 @@ An app to find circumference of body parts with the given csv file that is creat
 
 Edit csv file path from Line 465.
 
-## [Find the Body Scanner app from here](https://github.com/aerarslan/BodyScanner-Kinect)
+## [Body-Scanner-Kinect App](https://github.com/aerarslan/BodyScanner-Kinect)
